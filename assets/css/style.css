@@ -21,9 +21,9 @@
    */
 
   --light-steel-blue: hsl(218, 33%, 77%);
-  --royal-blue-light: #a5cc6b;
+  --royal-blue-light: hsl(180, 70, 78);
   --flickr-blue_30: hsla(115, 68%, 53%, 0.3);
-  --carolina-blue: #a5cc6b;
+  --carolina-blue: hsl(180, 70, 78);
   --oxford-blue-1: #023436;
   --oxford-blue-2: hsl(129, 100%, 4%);
   --oxford-blue-3: hsl(144, 71%, 11%);
