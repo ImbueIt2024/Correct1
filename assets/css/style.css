@@ -20,10 +20,10 @@
    * colors
    */
 
-  --light-steel-blue: hsl(218, 33%, 77%);
-  --royal-blue-light: hsl(180, 70, 78);
+  --light-steel-blue: hsla(218, 33%, 77%);
+  --royal-blue-light: #023436;
   --flickr-blue_30: hsla(115, 68%, 53%, 0.3);
-  --carolina-blue: hsl(180, 70, 78);
+  --carolina-blue: hsla(180, 70, 78);
   --oxford-blue-1: #023436;
   --oxford-blue-2: hsl(129, 100%, 4%);
   --oxford-blue-3: hsl(144, 71%, 11%);
