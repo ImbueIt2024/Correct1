@@ -559,7 +559,7 @@
   .blog-card:is(:hover, :focus-within) .card-banner img { transform: scale(1.1); }
   
   .blog-card .card-badge {
-    background-color: var(--royal-blue-light);
+    background-color: var(--change-1);
     color: var(--white);
     position: absolute;
     bottom: 25px;
@@ -568,7 +568,6 @@
     gap: 5px;
     padding: 10px 15px;
     border-radius: var(--radius-6);
-  }
   
   .blog-card .card-content { padding: 30px; }
   
