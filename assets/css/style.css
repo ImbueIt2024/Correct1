@@ -172,7 +172,7 @@
   .section { padding-block: var(--section-padding); }
   
   .section-subtitle {
-    color: var(--change-3);
+    color: var(--change-1);
     font-family: var(--ff-poppins);
     font-size: var(--fs-6);
     font-weight: var(--fw-700);
