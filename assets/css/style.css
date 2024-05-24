@@ -179,6 +179,15 @@
     text-transform: uppercase;
     margin-block-end: 10px;
   }
+
+  .section-subtitle-e {
+    color: var(--change-3);
+    font-family: var(--ff-poppins);
+    font-size: var(--fs-6);
+    font-weight: var(--fw-700);
+    text-transform: uppercase;
+    margin-block-end: 10px;
+  }
   
   .h1,
   .h2,
